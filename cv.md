@@ -5,7 +5,7 @@ _Front-End student_
 
 ### _Contacts:_
 * +7-905-215-12-30
-* [VK](https://vk.com/audios39350502)
+* [Telegram](https://t.me/ZaimGagarin)
 * [GitHub](https://github.com/ZaimBeshich)
 
 ### _Expirience:_
@@ -18,7 +18,7 @@ The best part about programming is the possibility to grow in any direction like
 ### _Skills:_
 * Basic HTML
 * Basic CSS
- *Basic JS
+* Basic JS
 * Git
 * npm
 * devtools
